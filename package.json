@@ -1,0 +1,22 @@
+{
+  "name": "export-fetch",
+  "version": "1.0.0",
+  "description": "Override for packages that exports fetch()",
+  "main": "index.mjs",
+  "license": "MIT",
+  "keywords": [
+    "export",
+    "native",
+    "node",
+    "fetch"
+  ],
+  "author": "Vladislav Ponomarev <Git@PonomareVlad.ru> (https://PonomareVlad.ru)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PonomareVlad/Export-Fetch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PonomareVlad/Export-Fetch/issues"
+  },
+  "homepage": "https://github.com/PonomareVlad/Export-Fetch#readme"
+}
